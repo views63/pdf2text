@@ -6,7 +6,7 @@ edition = "2018"
 
 [dependencies]
 pdf-extract = ""
-lopdf = ""
+lopdf = "0.15.3"
 
 [profile.release]
 panic = 'abort'
