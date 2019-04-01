@@ -1,5 +1,5 @@
 # pdf2text
-为解决使用 `lwarp`  过程中内部调用 `poppler` 中的 `pdftotext.exe` 转换 `pdf` 时出现的[文章顺序错误问题](https://github.com/CTeX-org/forum/issues/18)，用 [pdf-extract](https://github.com/jrmuizel/pdf-extract) 的测试例子改了下做成 `pdf2text`
+为解决使用 `lwarp`  过程中内部调用 `poppler` 中的 `pdftotext.exe` 转换 `pdf` 时出现的[文章顺序错误](https://github.com/CTeX-org/forum/issues/18)问题，用 [pdf-extract](https://github.com/jrmuizel/pdf-extract) 的测试例子改了下做成 `pdf2text`
 
 用法：
 
